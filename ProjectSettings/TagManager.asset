@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Look
+  - Door
+  - Food
+  - Meed
+  - Char
+  - Item
+  - Time
+  - Tool
+  - Bomb
+  - Told
+  - Tell
+  - Room
+  - Loft
+  - Goal
+  - Play
+  - Tear
+  - Note
+  - Norm
+  - Full
+  - Back
+  - Star
+  - Gate
+  - Clef
+  - Open
+  - Port
+  - Msiz
+  - Girl
+  - Cont
+  - Harm
+  - Boss
+  - Dead
+  - Left
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Special
+  - Water
+  - UI
+  - AntiSpecial
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Shiny
+    uniqueID: 3555482707
+    locked: 0
+  - name: Interact
+    uniqueID: 2570700139
+    locked: 0
+  - name: Player
+    uniqueID: 1939137705
+    locked: 0
+  - name: Up
+    uniqueID: 1354170403
+    locked: 0
+  - name: UpAndShiny
+    uniqueID: 3529237415
+    locked: 0
+  - name: InteractUp
+    uniqueID: 2675154423
+    locked: 0
