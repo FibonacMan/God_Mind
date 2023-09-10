@@ -1,0 +1,2 @@
+use the Q Key to Attack or Parry Creatures and Objects with the Sickle?
+dash by double-clicking the A or D keys.
